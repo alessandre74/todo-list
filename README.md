@@ -14,11 +14,9 @@ Todo-List é um projeto proposto para o desafio de fundamentos de React JS da Ro
 
 ### Instalação
 
-```
 Clone o repositório do Projeto
 
 ```
-
 https://github.com/alessandre74/todo-list.git
 
 ```
@@ -26,7 +24,6 @@ https://github.com/alessandre74/todo-list.git
 Acesse o diretório do projeto
 
 ```
-
 cd todo-list
 
 ```
@@ -34,7 +31,6 @@ cd todo-list
 Instale as dependências
 
 ```
-
 yarn ou sudo yarn (com yarn )
 
 npm install ou sudo npm install (com npm)
@@ -44,7 +40,6 @@ npm install ou sudo npm install (com npm)
 Start o aplicativo
 
 ```
-
 npm run dev
 
 ```
@@ -52,4 +47,3 @@ npm run dev
 ## 📄 License
 
 Este projeto está sob a licença MIT
-```
